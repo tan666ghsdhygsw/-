@@ -112,7 +112,7 @@ HTML_PAGE = r"""<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>差评提炼器·谭先生人工回复</title>
+<title>谭先生人工回复</title>
 <style>
   * { box-sizing: border-box; }
   body {
@@ -247,7 +247,7 @@ HTML_PAGE = r"""<!DOCTYPE html>
 <div class="wrap">
   <header>
     <h1>🛒 自动回复差评</h1>
-    <p>粘贴买家差评或直接填写差评 → 自动提炼 3 大痛点 + 生成 2 条高情商商家回复</p>
+    <p>粘贴买家差评或直接填写差评 → 自动提炼 3 条无关紧要的事情 + 生成 2 条无情商商家回复</p>
   </header>
 
   <section class="card">

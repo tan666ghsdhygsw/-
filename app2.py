@@ -351,7 +351,7 @@ HTML_PAGE = r"""<!DOCTYPE html>
     html += '<div class="result-head"><h2>📋 分析结果</h2>' +
             '<button class="mini" onclick="copyAll(this)">📎 一键复制全部</button></div>';
 
-    html += '<div class="section-title">核心痛点 TOP3</div>';
+    html += '<div class="section-title">人话  TOP3</div>';
     if (points.length === 0) {
       html += '<div class="p-detail">未能提炼到明显痛点，请检查差评内容。</div>';
     }
